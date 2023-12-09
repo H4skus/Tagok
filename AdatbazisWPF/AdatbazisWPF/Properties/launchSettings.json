@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AdatbazisWPF": {
+      "commandName": "Project"
+    },
+    "Count": {
+      "commandName": "Project",
+      "commandLineArgs": "--count"
+    }
+  }
+}
